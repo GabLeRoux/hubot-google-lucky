@@ -2,9 +2,20 @@
   "name": "hubot-google-lucky",
   "description": "A hubot script that returns I'm feeling lucky's Google result",
   "version": "0.0.1",
-  "author": "Gabriel Le Breton <lebreton.gabriel@gmail.com>",
+  "author": {
+    "name": "Gabriel Le Breton",
+    "email": "lebreton.gabriel@gmail.com"
+  },
   "license": "MIT",
-  "keywords": "hubot, hubot-scripts, lucky, google, url, link, find",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "lucky",
+    "google",
+    "url",
+    "link",
+    "find"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/GabLeRoux/hubot-google-lucky.git"
