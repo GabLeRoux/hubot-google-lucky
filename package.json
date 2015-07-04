@@ -1,0 +1,36 @@
+{
+  "name": "hubot-google-lucky",
+  "description": "A hubot script that returns I'm feeling lucky's Google result",
+  "version": "0.0.1",
+  "author": "Gabriel Le Breton <lebreton.gabriel@gmail.com>",
+  "license": "MIT",
+  "keywords": "hubot, hubot-scripts, lucky, google, url, link, find",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/GabLeRoux/hubot-google-lucky.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GabLeRoux/hubot-google-lucky/issues"
+  },
+  "dependencies": {
+    "coffee-script": "^1.9.3"
+  },
+  "peerDependencies": {
+    "hubot": "2.x"
+  },
+  "devDependencies": {
+    "hubot": "2.x",
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*",
+    "grunt-mocha-test": "~0.7.0",
+    "grunt-release": "~0.6.0",
+    "matchdep": "~0.1.2",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "main": "index.coffee",
+  "scripts": {
+    "test": "grunt test"
+  }
+}
