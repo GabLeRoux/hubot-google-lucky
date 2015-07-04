@@ -1,6 +1,6 @@
 # hubot-google-lucky
 
-[![Build Status](https://img.shields.io/travis/gableroux/hubot-google-lucky.svg)](http://travis-ci.org/gableroux/hubot-google-lucky)
+[![Build Status](https://img.shields.io/travis/GabLeRoux/hubot-google-lucky.svg)](http://travis-ci.org/GabLeRoux/hubot-google-lucky)
 [![GitHub issues](https://img.shields.io/github/issues/GabLeRoux/hubot-google-lucky.svg)](https://github.com/GabLeRoux/hubot-google-lucky/issues)
 [![GitHub forks](https://img.shields.io/github/forks/GabLeRoux/hubot-google-lucky.svg)](https://github.com/GabLeRoux/hubot-google-lucky/network)
 [![GitHub stars](https://img.shields.io/github/stars/GabLeRoux/hubot-google-lucky.svg)](https://github.com/GabLeRoux/hubot-google-lucky/stargazers)
