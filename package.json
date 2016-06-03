@@ -24,7 +24,8 @@
     "url": "https://github.com/GabLeRoux/hubot-google-lucky/issues"
   },
   "dependencies": {
-    "coffee-script": "^1.9.3"
+    "coffee-script": "^1.9.3",
+    "grunt": "^1.0.1"
   },
   "peerDependencies": {
     "hubot": "2.x"
